@@ -26,4 +26,3 @@ Welcome to our official information repository about Maharashtra Government Sche
 ---
 
 📍 Maharashtra, India  
-📧 Contact: your@email.com
